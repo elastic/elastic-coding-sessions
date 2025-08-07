@@ -1,7 +1,7 @@
 {
   "name": "search-ui-simple-frontend",
   "version": "0.1.0",
-  "private": true,
+  "license": "Apache-2.0",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@elastic/datemath": "^5.0.3",
